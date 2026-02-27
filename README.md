@@ -43,3 +43,4 @@ python app.py
 ---
 
 *Built to expose the true cost of organisational theatre.*
+# Auto-deploy trigger
