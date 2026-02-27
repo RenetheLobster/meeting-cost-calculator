@@ -1,0 +1,82 @@
+{
+  "currency": "USD",
+  "source": "BLS 2024, Glassdoor, PayScale",
+  "last_updated": "2026-02-27",
+  "roles": {
+    "Project Manager": {
+      "median_salary": 95000,
+      "hourly_rate": 45.67,
+      "source": "Glassdoor US"
+    },
+    "Senior Project Manager": {
+      "median_salary": 125000,
+      "hourly_rate": 60.10,
+      "source": "Glassdoor US"
+    },
+    "Programme Manager": {
+      "median_salary": 140000,
+      "hourly_rate": 67.31,
+      "source": "Glassdoor US"
+    },
+    "Product Manager": {
+      "median_salary": 120000,
+      "hourly_rate": 57.69,
+      "source": "Glassdoor US"
+    },
+    "CTO": {
+      "median_salary": 200000,
+      "hourly_rate": 96.15,
+      "source": "Glassdoor US"
+    },
+    "CEO": {
+      "median_salary": 180000,
+      "hourly_rate": 86.54,
+      "source": "PayScale"
+    },
+    "CFO": {
+      "median_salary": 170000,
+      "hourly_rate": 81.73,
+      "source": "Glassdoor US"
+    },
+    "VP Engineering": {
+      "median_salary": 190000,
+      "hourly_rate": 91.35,
+      "source": "Glassdoor US"
+    },
+    "Director of Operations": {
+      "median_salary": 130000,
+      "hourly_rate": 62.50,
+      "source": "Glassdoor US"
+    },
+    "Business Analyst": {
+      "median_salary": 78000,
+      "hourly_rate": 37.50,
+      "source": "Glassdoor US"
+    },
+    "Solution Architect": {
+      "median_salary": 135000,
+      "hourly_rate": 64.90,
+      "source": "Glassdoor US"
+    },
+    "Software Engineer": {
+      "median_salary": 110000,
+      "hourly_rate": 52.88,
+      "source": "Glassdoor US"
+    },
+    "QA Engineer": {
+      "median_salary": 85000,
+      "hourly_rate": 40.87,
+      "source": "Glassdoor US"
+    },
+    "UX Designer": {
+      "median_salary": 95000,
+      "hourly_rate": 45.67,
+      "source": "Glassdoor US"
+    },
+    "Scrum Master": {
+      "median_salary": 105000,
+      "hourly_rate": 50.48,
+      "source": "Glassdoor US"
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "currency": "GBP",
+  "source": "ONS 2024, Glassdoor, Indeed",
+  "last_updated": "2026-02-27",
+  "roles": {
+    "Project Manager": {
+      "median_salary": 52000,
+      "hourly_rate": 27.08,
+      "source": "Glassdoor UK"
+    },
+    "Senior Project Manager": {
+      "median_salary": 65000,
+      "hourly_rate": 33.85,
+      "source": "Glassdoor UK"
+    },
+    "Programme Manager": {
+      "median_salary": 75000,
+      "hourly_rate": 39.06,
+      "source": "Glassdoor UK"
+    },
+    "Product Manager": {
+      "median_salary": 58000,
+      "hourly_rate": 30.21,
+      "source": "Glassdoor UK"
+    },
+    "CTO": {
+      "median_salary": 120000,
+      "hourly_rate": 62.50,
+      "source": "Glassdoor UK"
+    },
+    "CEO": {
+      "median_salary": 95000,
+      "hourly_rate": 49.48,
+      "source": "ONS 2024"
+    },
+    "Finance Director": {
+      "median_salary": 85000,
+      "hourly_rate": 44.27,
+      "source": "Glassdoor UK"
+    },
+    "HR Director": {
+      "median_salary": 75000,
+      "hourly_rate": 39.06,
+      "source": "Glassdoor UK"
+    },
+    "Business Analyst": {
+      "median_salary": 45000,
+      "hourly_rate": 23.44,
+      "source": "Glassdoor UK"
+    },
+    "Solution Architect": {
+      "median_salary": 75000,
+      "hourly_rate": 39.06,
+      "source": "Glassdoor UK"
+    },
+    "Developer": {
+      "median_salary": 55000,
+      "hourly_rate": 28.65,
+      "source": "Glassdoor UK"
+    },
+    "QA Engineer": {
+      "median_salary": 48000,
+      "hourly_rate": 25.00,
+      "source": "Glassdoor UK"
+    },
+    "UX Designer": {
+      "median_salary": 50000,
+      "hourly_rate": 26.04,
+      "source": "Glassdoor UK"
+    }
+  }
+}
