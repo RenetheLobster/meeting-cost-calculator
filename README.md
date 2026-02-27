@@ -44,3 +44,4 @@ python app.py
 
 *Built to expose the true cost of organisational theatre.*
 # Auto-deploy trigger
+Fri Feb 27 02:50:46 PM GMT 2026 - Deploy trigger
